@@ -195,6 +195,7 @@ body {
   margin: 120px auto;
   padding: 35px 0 0 47px;
 }
+
 .about__logo {
   display: flex;
   justify-content: center;
@@ -204,6 +205,7 @@ body {
   border-radius: 60%; 
   background-color: #000000;
 }
+
 .about__logo-image {
   width: 142px;
 }
@@ -225,7 +227,6 @@ body {
   margin-bottom: 24px;
   padding-right: 5px;
 }
-
 
 .footer {
   display: grid;
